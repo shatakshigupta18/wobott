@@ -1,0 +1,86 @@
+body{
+    background-color: whitesmoke;
+}
+
+#first{
+    
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+}
+#second{
+   
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: #545454;
+}
+#a{
+    font-family: 'Inter', sans-serif;
+    margin-left: 38%;
+
+}
+#b{
+    font-family: 'Inter', sans-serif;
+    margin-left: 38%;
+    box-sizing: border-box;
+
+
+}
+#c{
+    font-family: 'Inter', sans-serif;
+    margin-left: 38%;
+}
+#d{
+    font-family: 'Inter', sans-serif;
+    margin-left: 38%;
+}
+.button{
+    background: #3766E8;
+   
+    justify-content: center;
+    align-items: center;
+    padding: 10px 40px;
+    gap: 8px;
+    border-radius: 5px;
+   
+
+}
+.box{
+    div {
+        width: 300px;
+        border: 15px solid green;
+        padding: 50px;
+        margin: 20px;
+      }
+
+}
+small{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+color: #545454;
+margin-left: 43%;
+}
+rect{
+ margin-bottom: 40%;   
+position: fixed;
+width: 739.01px;
+height:13.44px;
+left: -129.81px;
+top: 233.09px;
+
+/* Primary color extralight focus */
+
+background: #E0E8FC;
+transform: rotate(-30deg);
+}
+
